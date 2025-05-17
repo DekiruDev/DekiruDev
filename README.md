@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeroCool5254
+- 👋 Hi, I’m DekiruDev
 - 👀 I’m interested in playing and developing games
 - 🌱 I’m currently learning C# and Unity through GameDevHQ
 - 💞️ I’m looking to collaborate on Game-jam games
